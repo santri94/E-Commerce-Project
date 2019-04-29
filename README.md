@@ -1,11 +1,7 @@
-# E-Commerce-Project
-E-Commerce Project, designed using MySQL, PHP, JavaScript and HTML.
+# Internet-Computing-Project
+Site to Upload PHP scripts and html files for Internet Computing Project
 
-Use Database With Products.txt to create the Database, After doing this everything should work correctly.
-on the database there is already one account for admins.
+Use this Link to create Frames for our project:
+http://framebox.org/AizNq
 
-Admin account:
-admin@admin.com
-
-Password:
-admin
+Use Database.txt so you guys can use the log in function for now
