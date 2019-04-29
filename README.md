@@ -1,5 +1,5 @@
 #E-Commer-Project
-E-Commerce Project designed using PHP, MySQL, HTML5 and JavaScript.
+Designed using PHP, MySQL, HTML5 and JavaScript.
 
 To use this Project create your database first using Database With Products.txt, after doing this everything should work correctly.
 
