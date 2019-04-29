@@ -1,7 +1,12 @@
-# Internet-Computing-Project
-Site to Upload PHP scripts and html files for Internet Computing Project
+#E-Commer-Project
+E-Commerce Project designed using PHP, MySQL, HTML5 and JavaScript.
 
-Use this Link to create Frames for our project:
-http://framebox.org/AizNq
+To use this Project create your database first using Database With Products.txt, after doing this everything should work correctly.
 
-Use Database.txt so you guys can use the log in function for now
+There is one admin account already on this database.
+
+Email:
+admin@admin.com
+
+Password:
+admin
